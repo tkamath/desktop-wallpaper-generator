@@ -1,0 +1,2 @@
+This program, upon being run on a Windows computer, prompts the user for the path to a folder of images. Then the program randomly selects an image from that folder and on its own sets
+that image as the user's desktop wallpaper.
